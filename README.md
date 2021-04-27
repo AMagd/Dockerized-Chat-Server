@@ -1,7 +1,7 @@
-#Instructions:
+# Instructions:
 
 --------------------------------------------------------------------------------
-##TO START THE SERVER:
+## TO START THE SERVER:
 Inside the first simple_chat directory (which includes the Dockerfile) do the following:
 
 1- cd $path_to_first_simple_chat_directory
@@ -11,7 +11,7 @@ Inside the first simple_chat directory (which includes the Dockerfile) do the fo
 Now the server is RUNNING!
 
 --------------------------------------------------------------------------------
-##TO ADD A CLIENT:
+## TO ADD A CLIENT:
 
 Open a new tab in the terminal and do the following:
 
